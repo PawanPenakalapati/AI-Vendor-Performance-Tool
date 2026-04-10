@@ -1,3 +1,8 @@
+## Business Impact
+- Improves vendor performance visibility and governance  
+- Enables proactive risk identification  
+- Supports data-driven decision-making  
+- Reduces dependency on manual reporting and analysis  
 # AI Vendor Performance Analysis Tool
 
 > Designed as a practical AI solution to evaluate vendor performance, identify gaps, and support governance decision-making.
