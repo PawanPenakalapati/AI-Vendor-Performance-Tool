@@ -1,0 +1,27 @@
+Performance Summary
+Vendor performance has declined compared to previous year, with lower SLA compliance and increased incident handling time.
+
+SLA Compliance
+Actual uptime (98.7%) is below contractual target (99.9%).
+MTTR (3.5 hrs) exceeds agreed threshold (<2 hrs).
+
+Year-over-Year Comparison
+Performance has degraded from previous year (99.5% uptime, MTTR 2.2 hrs).
+Increased escalation volume indicates declining service quality.
+
+Key Gaps
+Failure to meet uptime SLA targets
+Higher MTTR impacting resolution efficiency
+Increase in critical and high severity escalations
+
+Risk Assessment
+High risk to business continuity and SLA commitments
+Potential customer dissatisfaction and contractual penalties
+Operational inefficiencies impacting service reliability
+
+Recommendations
+High: Conduct immediate vendor performance review and corrective action plan
+High: Enforce SLA adherence with defined penalties and monitoring
+Medium: Improve incident response processes and reduce MTTR
+Medium: Implement proactive monitoring and escalation controls
+Low: Establish periodic performance reviews and reporting cadence
